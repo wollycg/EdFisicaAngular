@@ -2,7 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
-import { UmRMComponent } from './um-rm/um-rm.component';
+import { UmRMComponent } from './umrm/um-rm.component';
 import { AvaliacoesComponent } from './avaliacoes/avaliacoes.component';
 import { CalculadorasComponent } from './calculadoras/calculadoras.component';
 import { FcmComponent } from './fcm/fcm.component';
@@ -13,7 +13,7 @@ import { NafComponent } from './naf/naf.component';
 import { ParqComponent } from './parq/parq.component';
 import { RcqComponent } from './rcq/rcq.component';
 import { RelatoriosComponent } from './relatorios/relatorios.component';
-import { RiscoCoroniarianComponent } from './risco-coroniarian/risco-coroniarian.component';
+import { RiscoCoroniarianComponent } from './riscocoronariano/risco-coroniarian.component';
 import { IrcComponent } from './irc/irc.component';
 import { SetedobrasComponent } from './setedobras/setedobras.component';
 import { SobreComponent } from './sobre/sobre.component';
